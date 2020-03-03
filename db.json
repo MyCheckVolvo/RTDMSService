@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "immat": "EA300QQ",
+    "status": "Ouvert"
+  },
+  {
+    "id": 2,
+    "immat": "EA568RP",
+    "status": "Fermer"
+  },
+  {
+    "id": 3,
+    "immat": "EE513CJ",
+    "status": "Ouvert"
+  },
+  {
+    "id": 4,
+    "immat": "EA400QA",
+    "status": "Fermer"
+  },
+  {
+    "id": 5,
+    "immat": "EA300QQ",
+    "status": "Fermer"
+  }
+]
