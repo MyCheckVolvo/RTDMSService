@@ -22,5 +22,11 @@
         "repairOrderNumber": 1234567,
         "plateNumber": "EA400QA",
         "opened": false
+    },
+    "RTF123":
+    {
+        "repairOrderNumber": 51788312,
+        "plateNumber": "RTF123",
+        "opened": true
     }
 }
