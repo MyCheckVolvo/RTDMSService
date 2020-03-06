@@ -1,26 +1,26 @@
-[
-  {
-    "id": 1,
-    "ORNumber": "4242420",
-    "immat": "EA300QQ",
-    "status": "Ouvert"
-  },
-  {
-    "id": 2,
-    "ORNumber": "7654321",
-    "immat": "EA568RP",
-    "status": "Fermer"
-  },
-  {
-    "id": 3,
-    "ORNumber": "3141592",
-    "immat": "EE513CJ",
-    "status": "Ouvert"
-  },
-  {
-    "id": 4,
-    "ORNumber": "1234567",
-    "immat": "EA400QA",
-    "status": "Fermer"
-  }
-]
+{
+    "EA300QQ":
+    {
+        "repairOrderNumber": 4242420,
+        "plateNumber": "EA300QQ",
+        "opened": true
+    },
+    "EA568RP":
+    {
+        "repairOrderNumber": 7654321,
+        "plateNumber": "EA568RP",
+        "opened": false
+    },
+    "EE513CJ":
+    {
+        "repairOrderNumber": 3141592,
+        "plateNumber": "EE513CJ",
+        "opened": true
+    },
+    "EA400QA":
+    {
+        "repairOrderNumber": 1234567,
+        "plateNumber": "EA400QA",
+        "opened": false
+    }
+}
